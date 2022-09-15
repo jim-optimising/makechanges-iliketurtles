@@ -9,7 +9,7 @@ h2
 {
   font-size: 24px;
   text-transform: uppercase;
-  color: #006A4E;
+  color: #3a86ff;
   font-weight: 600;
   margin-bottom: 30px;
 }
@@ -18,7 +18,7 @@ h4
 {
   font-size: 19px;
   line-height: 1.375em;
-  color: #17B169;
+  color: #a2d2ff;
   font-weight: 400;
   margin-bottom: 30px;
 }
@@ -31,7 +31,7 @@ img {
 .jumbotron {
   position:relative;
   overflow:hidden;
-  background-color: #228b22;
+  background-color: #ff006e;
   color: #fff;
   padding: 5rem 0px 3rem !important;
   font-family: Montserrat, sans-serif;
@@ -53,7 +53,7 @@ img {
 }
 
 .navbar-default, .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #228b22;
+    background-color: #ff006e;
 }
 
 .navbar-brand>img {
@@ -68,8 +68,8 @@ img {
 
 .btn-primary {
     color: #fff;
-    background-color: #f16e00;
-    border-color: #f16e00;
+    background-color: #8338ec;
+    border-color: #8338ec;
     border-radius: 0px;
 }
 
@@ -97,17 +97,17 @@ img {
 .carousel-control.right, .carousel-control.left
 {
   background-image: none;
-  color: #228b22;
+  color: #ff006e;
 }
 
 .carousel-indicators li
 {
-  border-color: #228b22;
+  border-color: #ff006e;
 }
 
 .carousel-indicators li.active
 {
-  background-color: #228b22;
+  background-color: #ff006e;
 }
 
 .item h4
@@ -126,7 +126,7 @@ img {
 
 .panel
 {
-  border: 1px solid #228b22;
+  border: 1px solid #ff006e;
   border-radius: 0 !important;
   transition: box-shadow 0.5s;
 }
@@ -138,15 +138,15 @@ img {
 
 .panel-footer .btn:hover
 {
-  border: 1px solid #228b22;
+  border: 1px solid #ff006e;
   background-color: #fff !important;
-  color: #228b22;
+  color: #ff006e;
 }
 
 .panel-heading
 {
   color: #fff !important;
-  background-color: #228b22 !important;
+  background-color: #ff006e !important;
   padding: 25px;
   border-bottom: 1px solid transparent;
   border-top-left-radius: 0px;
@@ -174,14 +174,14 @@ img {
 .panel-footer .btn
 {
   margin: 15px 0;
-  background-color: #228b22;
+  background-color: #ff006e;
   color: #fff;
 }
 
 .navbar
 {
   margin-bottom: 0;
-  background-color: #228b22;
+  background-color: #ff006e;
   z-index: 9999;
   border: 0;
   font-size: 12px !important;
@@ -198,7 +198,7 @@ img {
 
 .navbar-nav li a:hover, .navbar-nav li.active a
 {
-  color: #228b22 !important;
+  color: #ff006e !important;
   background-color: #fff !important;
 }
 
@@ -212,7 +212,7 @@ footer .glyphicon
 {
   font-size: 20px;
   margin-bottom: 20px;
-  color: #228b22;
+  color: #ff006e;
 }
 
 .slideanim
@@ -287,7 +287,7 @@ footer .glyphicon
 
 
 path { 
-    stroke: #228b22;
+    stroke: #ff006e;
     stroke-width: 3;
     fill: none;
 }
